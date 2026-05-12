@@ -95,8 +95,8 @@ Open any `.ipynb` file in VS Code or run `jupyter notebook`.
 ## 📈 Progress
 
 - [x] Phase 1, Week 1 — Vectors *(in progress)*
-- [ ] Phase 1, Week 2 — Linear transformations
-- [ ] Phase 1, Week 3 — Determinants
+- [x] Phase 1, Week 2 — Linear transformations
+- [x] Phase 1, Week 3 — Determinants
 - [ ] Phase 1, Week 4 — Eigenvalues (intuition)
 - [ ] **Phase 1 milestone test**
 - [ ] Phase 2 (Weeks 5–10)
