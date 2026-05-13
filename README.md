@@ -2,8 +2,6 @@
 
 A 17-week structured journey through linear algebra — from intuition to implementation. Built around the principle: **video → hand calculation → code → explanation**. Every concept is implemented from scratch before reaching for `np.linalg`.
 
-> *"What I cannot create, I do not understand."* — Richard Feynman
-
 ---
 
 ## 🎯 Goals
@@ -60,54 +58,4 @@ Goal: Understand what linear algebra *is*, visually. No problem-solving yet.
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-linear-algebra-journey/
-├── week01_vectors/
-│   ├── week01_vectors.ipynb
-│   └── notes.md
-├── week02_transformations/
-│   └── ...
-└── README.md
-```
-
----
-
-## 🧰 Tech Stack
-
-- Python 3.11+
-- NumPy, Matplotlib
-- Jupyter (via VS Code)
-
-### Run locally
-
-```bash
-git clone https://github.com/<your-username>/linear-algebra-journey.git
-cd linear-algebra-journey
-pip install numpy matplotlib jupyter
-```
-
-Open any `.ipynb` file in VS Code or run `jupyter notebook`.
-
----
-
-## 📈 Progress
-
-- [x] Phase 1, Week 1 — Vectors *(in progress)*
-- [x] Phase 1, Week 2 — Linear transformations
-- [x] Phase 1, Week 3 — Determinants
-- [ ] Phase 1, Week 4 — Eigenvalues (intuition)
-- [ ] **Phase 1 milestone test**
-- [ ] Phase 2 (Weeks 5–10)
-- [ ] Phase 3 (Weeks 11–17)
-
----
-
-## 👤 About
-
-I'm a 3rd-year Statistics student at UNEC (Azerbaijan State University of Economics), preparing for a thesis-based MSc in Statistics / Data Science starting September 2027. This repository is one piece of the foundation I'm building toward that goal.
-
----
-
-*Last updated: April 2026*
+*Last updated: May 2026*
